@@ -5,7 +5,7 @@
 # 2. Chuẩn bị
 ## 2.1. Mô hình
 
-<img src="http://i.imgur.com/oW1km0e.png">
+<img src="http://i.imgur.com/TTE5DCQ.png">
 
 ## 2.2. Yêu cầu
 - Về cấu hình từng máy chủ
